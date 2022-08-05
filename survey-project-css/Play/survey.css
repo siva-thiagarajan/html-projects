@@ -1,0 +1,10 @@
+#question-list {
+    list-style: none;
+    text-align: center;
+}
+
+#question-list li {
+    display: inline;
+    border: 1px solid red;
+    padding: 30px 30px;
+}
