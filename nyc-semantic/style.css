@@ -18,6 +18,7 @@ body {
     list-style: none;
     padding: 0px 20px;
     text-align: center;
+    text-decoration: none;
 }
 
 h1 {
@@ -28,20 +29,47 @@ figure {
     text-align: center;
 }
 
-#blog {
+.blog {
     font-family: "Gill Sans";
     font-size: 22px;
     line-height: 1.5;
 }
 
-#media {
+.media {
     font-family: "Gill Sans";
     font-size: 22px;
     line-height: 1.5;
 }
 
-#media {
-    font-family: "Gill Sans";
-    font-size: 22px;
-    line-height: 1.5;
+.videonyc {
+    text-align: center;
 }
+
+video {
+    width: 800px;
+    height: 600px;
+}
+
+embed {
+    text-align: center;
+}
+
+.nightnyc img {
+    width: 800px;
+    height: 600px;
+}
+
+.nightnyc {
+    text-align: center;
+}
+
+.audio {
+    text-align: center;
+    padding-top: 20px;
+}
+
+footer {
+    text-align: center;
+}
+
+
