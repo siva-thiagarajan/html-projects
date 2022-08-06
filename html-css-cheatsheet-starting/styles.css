@@ -1,0 +1,42 @@
+body {
+    background-color: lightgray;
+}
+
+h1 {
+    text-align: center;
+    font-size: 36px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h2 {
+    text-align: center;
+    font-size: 28px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: purple;
+}
+
+.cheatsheet {
+    margin: 0px auto;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: 5px solid plum;
+}
+
+td {
+    border-bottom: 3px solid plum;
+    text-align: left;
+}
+
+th {
+    background-color: plum;
+    text-align: center;
+}
+
+.tags {
+    text-decoration-color: antiquewhite;
+    color: red;
+}
+
+span {
+    background-color: lightyellow;
+}
