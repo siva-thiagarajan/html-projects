@@ -1,0 +1,47 @@
+body {
+    background-color: black;
+    color: rgb(251, 248, 241);
+}
+
+.menu {
+    position: fixed;
+    margin-left: 1200px;
+    background-color: aqua;
+}
+
+.menu ul li {
+    display: inline-block;
+}
+
+.menu ul li {
+    font-size: 26px;
+    list-style: none;
+    padding: 0px 20px;
+    text-align: center;
+}
+
+h1 {
+    padding-top: 70px;
+}
+
+figure {
+    text-align: center;
+}
+
+#blog {
+    font-family: "Gill Sans";
+    font-size: 22px;
+    line-height: 1.5;
+}
+
+#media {
+    font-family: "Gill Sans";
+    font-size: 22px;
+    line-height: 1.5;
+}
+
+#media {
+    font-family: "Gill Sans";
+    font-size: 22px;
+    line-height: 1.5;
+}
