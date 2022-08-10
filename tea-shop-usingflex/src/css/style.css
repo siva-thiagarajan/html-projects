@@ -1,0 +1,109 @@
+body {
+    background-color: #000000;
+    margin: 0 auto;
+    font-family: Helvetica;
+    font-size: 22px;
+    color: seashell;
+}
+
+.container {
+    margin-left: 40px;
+    width: 1200px;
+}
+
+.nav {
+}
+
+.logo {
+    position: fixed;
+}
+
+.logo img {
+    height: 50px;
+    margin-left: 10px;
+}
+
+.menu {
+    display: flex;
+    justify-content: flex-end;
+    height: 59px;
+    border-bottom: 1px solid seashell;
+}
+
+.menu div {
+    color: white;
+    padding: 20px;
+}
+
+.page-hero {
+    background-image: url("/tea-shop-usingflex/src/assets/img-mission-background.jpeg");
+    height: 700px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.page-hero h2 {
+   text-align: center;
+   background-color: #000000;
+   margin-bottom: 0px;
+}
+
+.page-hero h4 {
+    margin-top: 0px;
+    text-align: center;
+    background-color: #000000;
+ }
+
+
+.tea-collection {
+    text-align: center;
+}
+
+.tea-type {
+    display: inline-flex;
+    flex-direction: column;
+
+}
+
+.tea-type img {
+    margin: 20px 45px;
+    max-width: 300px;
+    max-height: 200px;
+    flex-shrink: 1;
+}
+
+.tea-type p {
+    margin: 20px 45px;
+    text-align: center;
+    flex-shrink: 1;
+}
+
+.locations {
+    background-image: url("/tea-shop-usingflex/src/assets/img-locations-background.jpeg");
+}
+
+.locations h2 {
+    text-align: center;
+}
+
+.site {
+    display: inline-flex;
+    flex-direction: column;
+    background-color: #000000;
+    text-align: center;
+    margin: 50px 75px;
+}
+
+.bottom-card {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+}
+
+
+
+
+
